@@ -54,8 +54,7 @@ namespace lambda_practice
                 }
                 Console.ReadKey();
                 Console.Clear();
-                //3. Listar todos los empleados remotos. Estos son los empleados cuya ciudad no se encuentre entre las sedes de su departamento.
-
+                
 
                 //4. Listar todos los empleados cuyo aniversario de contratación sea el próximo mes.
 
